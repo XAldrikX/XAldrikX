@@ -2,7 +2,7 @@
 
 ## Faço Análise e desenvolvimento de sistemas pela Universidade Anhembi Morumbi.
 
-Atualmente estou me dedicando ao curso <a href="https://scrimba.com/learn/frontend">Frontend Developer Career Path</a> by Scrimba.
+Atualmente estou me dedicando ao Bootcamp <a href="https://scrimba.com/learn/frontend">Frontend Developer Career Path</a> by Scrimba.
 
 <p>
     Meu foco é em Desenvolvimento Web Front-End.
