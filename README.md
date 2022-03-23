@@ -20,5 +20,6 @@ Atualmente estou me dedicando ao Bootcamp <a href="https://scrimba.com/learn/fro
 - CSS
 
 - Javascript
+- React 
 
   
