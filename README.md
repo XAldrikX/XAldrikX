@@ -1,6 +1,6 @@
 # Olá, sou o Nicolas 👋 
 
-## Estudante de Sistemas para internet, atualmente trabalho para o Tchê ofertas que é o maior e-commerce de serviços do Rio Grande do Sul.
+## Estudante de Sistemas para internet, atualmente trabalho para o Tchê Ofertas que é o maior e-commerce de serviços do Rio Grande do Sul.
 
 Atualmente estou me dedicando ao Bootcamp <a href="https://scrimba.com/learn/frontend">Frontend Developer Career Path</a> by Scrimba.
 
