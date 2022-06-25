@@ -2,7 +2,7 @@
 
 ## Estudante de Sistemas para internet, trabalho para o Tchê Ofertas, maior e-commerce de serviços do Rio Grande do Sul.
 
-Atualmente estou me dedicando ao Bootcamp <a href="https://scrimba.com/learn/frontend">Frontend Developer Career Path</a> by Scrimba.
+<a href="https://scrimba.com/learn/frontend">Frontend Developer Career Path</a> by Scrimba graduate.
 
 <p>
     Meu foco é em Desenvolvimento Web Front-End.
@@ -13,7 +13,6 @@ Atualmente estou me dedicando ao Bootcamp <a href="https://scrimba.com/learn/fro
 
 
 - C
-- Python
 
 - HTML
 
