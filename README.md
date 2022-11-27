@@ -1,4 +1,4 @@
-# Olá, sou o Nicolas 👋 
+# Oi, seja bem vindo ao meu Github 👋 
 
 ## Estudante de Sistemas para internet, trabalho no e-commerce Tchê Ofertas.
 
