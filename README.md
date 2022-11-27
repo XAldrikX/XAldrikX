@@ -5,21 +5,14 @@
 <a href="https://scrimba.com/learn/frontend">Frontend Developer Career Path</a> by Scrimba graduate.
 
 <p>
-    Meu foco é em Desenvolvimento Web Front-End.
-</p>
-<p>
-    As tecnologias que tenho conhecimento até o momento são:
+    Sou apaixonado por criar interfaces Front-end com foco na usabilidade, gosto do processo de pensar um projeto focando no desempenho e leveza da página, tenho conhecimento no Google console e SEO. <br>Minha stack atualmente: 
 </p>
 
 
-- C
 
 - HTML
-
 - CSS (SCSS)
-
-- Javascript
-- React
-- Vue.js
-
+- JavaScript
+- Vue
+- PHP
   
